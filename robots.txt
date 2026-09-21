@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timothy1016.github.io/TimothyNathanielLaurencio/sitemap.xml
